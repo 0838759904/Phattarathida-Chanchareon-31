@@ -12,8 +12,6 @@ age = int(input("อายุ: "))
    price = "50"
 elif age <=59:
   price = "100"
-
  else:
 price = "Free"
-
 age = int(input("อายุ: ,price")
