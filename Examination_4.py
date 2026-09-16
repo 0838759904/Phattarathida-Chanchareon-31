@@ -18,4 +18,4 @@ elif score >=50:
   grade = "D"
 else:
   grade = "F"
-grade =int(input("score: "))
+print("score: "))
