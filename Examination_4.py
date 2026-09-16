@@ -18,4 +18,4 @@ elif score >=50:
   grade = "D"
 else:
   grade = "F"
-grade =int(input("คะแนนสอบ: ,score"))
+grade =int(input("score: "))
