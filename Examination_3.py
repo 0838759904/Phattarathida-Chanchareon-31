@@ -13,4 +13,4 @@ elif score >=50:
   score = "Fail"
 else:
   score = "Fail"
-score = int(input("คะแนน: , score "))
+score = int(input("score: "))
