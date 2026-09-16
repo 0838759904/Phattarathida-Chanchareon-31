@@ -14,4 +14,4 @@ elif age <=59:
   price = "100"
  else:
 price = "Free"
-age = int(input("price: ")
+print("price: ")
