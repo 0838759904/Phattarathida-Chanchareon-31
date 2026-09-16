@@ -20,5 +20,4 @@ elif sscore >=50:
 
 else:
   grade = "F"
-
-score + int(input("คะแนนสอบ: , score"))
+int(input("คะแนนสอบ: , score"))
