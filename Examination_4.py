@@ -7,4 +7,18 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-score = int(input())
+score = int(input("คะแนนสอบ: "))
+
+if score >=80:
+  grade = "A"
+elif score >=70:
+  grade = "B"
+elif score >=60:
+  grade = "C"
+elif sscore >=50:
+  grade = "D"
+
+else:
+  grade = "F"
+
+score + int(input("คะแนนสอบ: , score"))
