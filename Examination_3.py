@@ -6,4 +6,14 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-score = int(input())
+score = int(input("คะแนน:" ))
+
+if score <=50:
+  score = "Pass"
+elif score >=50:
+  score = "Fail"
+
+else:
+  score = "Fail"
+
+score = int(input("คะแนน: , score "))
